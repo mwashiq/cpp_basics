@@ -33,7 +33,7 @@ Feel free to explore the files and use them as a resource to learn C++ basics.
 ## Getting Started
 
 To get started with these code examples, you can clone the repository using the following command:
-git cline https://github.com/mwashiq/cpp_basics.git
+git clone https://github.com/mwashiq/cpp_basics.git
 
 
 Ensure that you have a C++ compiler and development environment set up on your system to compile and run the code.
